@@ -3,8 +3,7 @@ class: irods-slide-2
 
 # iRODS Presentations
 
-* [Building the iRODS Consortium](ATO2014/ATO2014.html) - All Things Open 2014 (Raleigh, NC)
-* [iRODS@SC14](SC14/SC14.html) - SuperComputing 2014 (New Orleans, LA)
+* [Building the iRODS Consortium](ATO2014.html) - All Things Open 2014 (Raleigh, NC)
 <br><br><br><br><br><br>
 <br><br><br><br><br><br>
 

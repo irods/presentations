@@ -1,0 +1,24 @@
+
+/*
+These are overrides for color correction, etc.
+*/
+a, a:link, a:visited,  a:hover, a:active {color:#00a388 !important;}
+
+
+
+/* This is the dark background with the faded logo at bottom right hand corner */
+.irods-slide-1 {background:#2a2a2a url(../images/irods-logo-1a.png) 5% 99%/20% no-repeat;}
+/* This is the white background with the faded logo at bottom right hand corner */
+.irods-slide-2 {background:white url(../images/irods-logo-2.png) 5% 99%/20% no-repeat;}
+/* Tiger eyes background: Two flavors; Logo or no logo */
+.irods-slide-tiger, .irods-slide-tiger-sans-logo {background:white url(../images/irods-logo-2.png) 5% 99%/20% no-repeat;padding-top:20%}
+.irods-slide-tiger-sans-logo {background:white !important;}
+
+
+
+/* iRODS Slides - Parts and pieces */
+.irods-green-line {width:100%;position:absolute;top:0;left:0;margin:0;padding:0;border:0;height:20px;z-index:1;background:#00a388;}
+.irods-green-stripe {width:100%;position:absolute;top:0;left:0;margin:0;padding:0;border:0;height:40px;z-index:1;background:#00a388 url(../images/lines-repeat-green.png) repeat-x;}
+.irods-green-horizontal {width:20px;position:absolute;top:0;left:0;margin:0;padding:0;border:0;height:100%;z-index:2;background:#00a388;}
+.irods-tiger-eyes-bg {height:30%;overflow:hidden;width:100%;position:absolute;top:0;left:0;margin:0;padding:0;border:0;z-index:1;background:white url(../images/irods-bg.jpg);background-size: 100% auto;}
+.irods-tiger-eyes-logo {width: 450px; height:100px; overflow: auto; margin: auto; position: absolute; top: 0; left: 0; bottom: 0; right: 0;background:url(../images/irods-logo.png) no-repeat;}

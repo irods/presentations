@@ -1,0 +1,46 @@
+  @page{
+    margin-left: -10.8em;
+  }
+
+  .thumbnail-left {
+    float: left;
+    width: 20%;
+  }
+  
+  .bubble-right {
+    float: right;
+    width: 80%;
+  }
+
+  .thumbnail-right {
+    float: right;
+    width: 20%;
+  }
+  
+  .bubble-left {
+    float: left;
+    width: 80%;
+  }
+  
+    .tight { 
+    margin-top: 0em;
+    margin-bottom: -3.5em;
+  } 
+  
+    .indented {
+    display: block;
+    text-indent: 2em;
+  }
+  
+    .big3 {
+    font-family: 'Yanone Kaffeesatz';
+    font-size: 1.6em; 
+  }
+  
+  .center {
+     text-align: center;
+  }
+  
+  .container {
+    width: 99%;
+  }
